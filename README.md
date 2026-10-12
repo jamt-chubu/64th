@@ -19,7 +19,7 @@ manifest.json       ホーム画面追加用
 sw.js               オフライン動作用（Service Worker）
 icon-192.png        アイコン
 icon-512.png        アイコン
-案内/               各企画の案内PDF 54ファイル
+案内/               各企画の案内PDF 55ファイル
 フロアマップ/        会場別の経路図 PNG 6ファイル
 一般演題/更新pdf/    抄録PDF 153ファイル（0001.pdf〜0153.pdf）
 .nojekyll           Jekyll によるビルドを無効化（必須）
