@@ -1,0 +1,17 @@
+{
+  "name": "令和8年度日臨技中部圏支部医学検査学会（第64回）",
+  "short_name": "中部圏支部医学検査学会",
+  "description": "プログラム・抄録・会場マップ（2026.10.31-11.1 長良川国際会議場）",
+  "start_url": "./学会アプリ.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6fa",
+  "theme_color": "#0f3057",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
